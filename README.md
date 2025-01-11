@@ -1,7 +1,7 @@
 # Stadium in the Boatrace Venture Project
 
 [![Build Status](https://github.com/BoatraceVentureProject/Stadium/workflows/tests/badge.svg)](https://github.com/BoatraceVentureProject/Stadium/actions?query=workflow%3Atests)
-[![codecov](https://codecov.io/gh/BoatraceVentureProject/Stadium/graph/badge.svg?token=PB8560SDPF)](https://codecov.io/gh/BoatraceVentureProject/Stadium)
+[![codecov](https://codecov.io/gh/BoatraceVentureProject/Stadium/graph/badge.svg?token=RJmoRn6NXp)](https://codecov.io/gh/BoatraceVentureProject/Stadium)
 [![Latest Stable Version](https://poser.pugx.org/bvp/stadium/v/stable)](https://packagist.org/packages/bvp/stadium)
 [![Latest Unstable Version](https://poser.pugx.org/bvp/stadium/v/unstable)](https://packagist.org/packages/bvp/stadium)
 [![License](https://poser.pugx.org/bvp/stadium/license)](https://packagist.org/packages/bvp/stadium)
