@@ -44,7 +44,9 @@ class MainStadium
             return null;
         }
 
-        $this->stadiums ??= collect(require __DIR__ . '/../config/stadiums.php')->recursive();
+        $this->stadiums ??= collect(
+            require __DIR__ . '/../config/stadiums.php'
+        )->recursive();
 
         $stadiums = $this->stadiums->keyBy(Str::snake($matches[1]));
         if ($stadiums->has($arguments[0])) {
